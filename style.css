@@ -1,0 +1,15 @@
+html {
+    background-color: lightcyan;
+}
+
+h1{
+    font-style: italic;
+}
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+p > b{
+    color: green;
+}
